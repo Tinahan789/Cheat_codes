@@ -1,5 +1,5 @@
 # Cheat Codes
-Repository of code and proceduress that I frequently forget and am tired of Googling.
+Repository of code and procedures that I frequently forget and am tired of Googling.
 
 ### Preview README.md:
 
