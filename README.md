@@ -1,7 +1,7 @@
 # Cheat Codes
 Repository of code and procedures that I frequently forget and am tired of Googling.
 
-### Preview README.md:
+### Preview README.md in VScode:
 
 `ctrl+k v`
 
