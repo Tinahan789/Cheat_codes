@@ -1,1 +1,1 @@
-Repository of code that I frequently forget and am tired of googling.
+- Repository of code that I frequently forget and am tired of googling.
